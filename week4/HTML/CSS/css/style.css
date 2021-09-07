@@ -1,0 +1,105 @@
+/* *{
+ 
+}
+
+div{
+      margin: 0;
+      padding: 0;
+
+}
+
+.container{
+      width: 960px;
+      height: 500px;
+      background-color:blue;
+      margin: 0 auto;
+      display: flex;
+      justify-content: right;
+}
+
+.div{
+      width: 100px;
+      height: 100px;
+      background-color: black;
+
+}
+
+ul,ol{
+      list-style: none;
+      display: flex;
+      justify-content: center;
+
+}     
+ul > li:{
+      color: blue;
+}
+
+ul::before{
+
+}
+
+ul::after{
+
+}
+
+
+
+ul > li:hover{
+      color: red;
+}
+
+
+a>img:hover{
+      width: 1080px;
+}
+
+ */
+
+
+/* *{
+      margin: 0;
+      padding: 0;
+      /* background-color: cyan; */
+      
+/* }
+
+.registration{
+      width: 350px;
+      height: 450px;
+      margin: 150px auto;
+      border: 2px solid black;
+      display: flex;
+      justify-content:space-between;
+      flex-direction: column;
+      padding: 50px 50px; */
+      /* background-color:crimson; */
+/* } */
+/* 
+.text{
+      display:flex ;
+      flex-direction: column; */
+
+/* }
+#pass{
+      color: darkblue;
+} */ 
+
+
+
+
+#ss{
+      color: red;
+}
+
+#vv{
+      color:blue
+}
+
+p{
+      font color = "white"
+}
+
+
+
+
+
